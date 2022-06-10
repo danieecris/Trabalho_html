@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:white;
+}
+#container 
+{
+margin: 1em auto;
+width: 100%;
+background: black;
+}
+#header{
+    background: rgb(8, 237, 245);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#mainnav{
+    background-color: black;
+}
+#menu{
+    background-color: black;
+    float:right;
+    width:20%;
+}
+#contents
+{
+ float:left;
+ width: 77%;
+ background-color: blue;
+ margin: 0 0 0 20px;
+}
+#footer{
+    clear:both;
+    background-color:black;
+}
+h1{
+    color:white;
+}
+h2{
+color:whitesmoke;
+}
+a{
+    color:white;
+}
+h3{
+    color: white;
+}
+h4{
+    color:white;
+}
